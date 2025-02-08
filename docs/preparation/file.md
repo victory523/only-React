@@ -10,13 +10,6 @@
 
 除去配置文件和隐藏文件夹，根目录的文件夹包括三个：
 
-```
-根目录
-├── fixtures        # 包含一些给贡献者准备的小型 React 测试项目
-├── packages        # 包含元数据（比如 package.json）和 React 仓库中所有 package 的源码（子目录 src）
-├── scripts         # 各种工具链的脚本，比如git、jest、eslint等
-```
-
 这里我们关注**packages**目录
 
 ## packages目录
