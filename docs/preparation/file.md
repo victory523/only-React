@@ -21,6 +21,7 @@
 React的核心，包含所有全局 React API，如：
 
 - React.createElement
+- React.Component
 - React.Children
 
 这些 API 是全平台通用的，它不包含`ReactDOM`、`ReactNative`等平台特定的代码。在 NPM 上作为[单独的一个包](https://www.npmjs.com/package/react)发布。
